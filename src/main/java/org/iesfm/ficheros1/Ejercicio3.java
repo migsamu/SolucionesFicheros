@@ -23,7 +23,7 @@ public class Ejercicio3 {
 
     public static void main(String[] args) {
         File homeFolder = new File(
-                "/home/mikelsanvi"
+                "/home/mikel"
         );
         showFiles(homeFolder);
     }
